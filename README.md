@@ -1,5 +1,7 @@
 # Firstrole
 
+**Live Demo:** [https://firstrole-tinyfish-ai.vercel.app/](https://firstrole-tinyfish-ai.vercel.app/)
+
 so Firstrole is a job and internship finder built with TinyFish, it pulls live openings from company careers pages and job portals and matches them to what you are looking for like role, location, seniority, and visa requirements. I built this because going through careers portals every week is a lot of work, so this is the tool i would actually use to keep the results fresh and spend less time refreshing careers pages.
 
 ## Features
@@ -70,6 +72,7 @@ so to run this on your machine you first need to install the dependencies and co
 
 ## Links
 
+* **Live Demo:** [https://firstrole-tinyfish-ai.vercel.app/](https://firstrole-tinyfish-ai.vercel.app/)
 * **Developer:** Chethan Vasthaw Tippani
 * **LinkedIn:** [https://www.linkedin.com/in/chethan-vasthaw/](https://www.linkedin.com/in/chethan-vasthaw/)
 * **Portfolio:** [https://chethan-4255.github.io/Portfolio/](https://chethan-4255.github.io/Portfolio/)
